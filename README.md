@@ -28,7 +28,6 @@ A beginner-friendly project using Python and Pandas to analyze a simulated YouTu
 - Python 🐍
 - Pandas
 - Google Colab
-- Matplotlib / Seaborn
 
 ## 🤝 Connect With Me
 
